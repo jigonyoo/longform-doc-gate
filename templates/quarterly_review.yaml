@@ -1,0 +1,23 @@
+# Section outline for a client-facing engagement review.
+# Each section names the question the section must answer.
+# `region` narrows which corpus documents are admissible for that section.
+title: Engagement Review
+sections:
+  - id: scoping
+    heading: How we scope an engagement
+    question: how long is discovery and how does it end
+  - id: fieldwork
+    heading: How fieldwork runs
+    question: how long is a fieldwork cycle and how does each cycle end
+  - id: review
+    heading: Quality review
+    question: how many reviewers sign a deliverable
+  - id: escalation
+    heading: Escalation
+    question: when is a finding escalated to the sponsor
+  - id: carryover
+    heading: Unused engagement days
+    question: how long do unused engagement days carry over
+  - id: pricing
+    heading: Rate card
+    question: what is the published day rate for a senior consultant
