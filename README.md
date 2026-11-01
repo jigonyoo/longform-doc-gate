@@ -1,5 +1,7 @@
 # longform-doc-gate
 
+[![CI](https://github.com/jigonyoo/longform-doc-gate/actions/workflows/ci.yml/badge.svg)](https://github.com/jigonyoo/longform-doc-gate/actions/workflows/ci.yml)
+
 Long-form document generation where the number that matters is **how much of it a person still has to read**.
 
 Point it at a corpus and a section outline. It drafts the document, attaches a source to every
